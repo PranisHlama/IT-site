@@ -1,0 +1,22 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: My New Hugo Site
+theme: hugo-profile
+menu:
+  main:
+    - identifier: Home
+      name: Home
+      weight: 2
+    - identifier: Services
+      name: Services
+      weight : 3
+    - identifier: Portfolio
+      name: Portfolio
+      weight : 4
+    - identifier: Careers
+      name: Careers
+      weight: 5
+    - identifiers: Contact Us
+      name: Contact us
+      weight: 6
+
