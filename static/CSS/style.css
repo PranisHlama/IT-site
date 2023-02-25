@@ -1,0 +1,12 @@
+.menu-item {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  .menu-item a {
+    color: #fff;
+  }
+  
+  .menu-item i {
+    margin-right: 5px;
+  }
