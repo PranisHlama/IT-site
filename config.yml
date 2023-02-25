@@ -7,16 +7,21 @@ menu:
     - identifier: Home
       name: Home
       weight: 2
+      url: "/Home/"
     - identifier: Services
       name: Services
+      url: "/services"
       weight : 3
     - identifier: Portfolio
       name: Portfolio
       weight : 4
+      url: "/Portfolio"
     - identifier: Careers
       name: Careers
       weight: 5
+      url: "/Careers/"
     - identifiers: Contact Us
       name: Contact us
       weight: 6
+      url: "/contact/"
 
