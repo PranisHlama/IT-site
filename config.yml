@@ -7,10 +7,10 @@ menu:
     - identifier: Home
       name: Home
       weight: 2
-      url: "/Home/"
+      url: "/home"
     - identifier: Services
       name: Services
-      url: "/services"
+      url: "/Services"
       weight : 3
     - identifier: Portfolio
       name: Portfolio
